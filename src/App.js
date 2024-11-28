@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-     <div>
+     <div style={{backgroundColor:'grey'}}>
       <h1>Hello there,</h1>
-      <h2>Pratik here</h2>
+      <h2 style={{color:'orange'}}>Pratik here</h2>
      </div>
   );
 }
